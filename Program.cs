@@ -16,7 +16,7 @@ namespace modul6_kelompok_7
             TeamMembers11302204094 miomio = new TeamMembers1302204094();
             miomio.ReadJSON();
             Console.WriteLine();
-            GlossaryItem11302204094 pop = new GlossaryItem1302204126();
+            GlossaryItem11302204094 pop = new GlossaryItem11302204094();
             pop.ReadJSON();
         }
     }
