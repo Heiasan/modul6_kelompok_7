@@ -10,7 +10,11 @@ namespace modul6_kelompok_7
     {
         static void Main(string[] args)
         {
-
+            DataMahasiswa1302204075 d = new DataMahasiswa1302204075();
+            d.ReadJSON();
+            Console.WriteLine();
+            TeamMembers1302204075 s = new TeamMembers1302204075();
+            s.ReadJSON();
         }
     }
 }
