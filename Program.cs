@@ -12,6 +12,9 @@ namespace modul6_kelompok_7
         {
             DataMahasiswa1302204126 d = new DataMahasiswa1302204126();
             d.ReadJSON();
+            Console.WriteLine();
+            TeamMembers1302204126 s = new TeamMembers1302204126();
+            s.ReadJSON();
         }
     }
 }
