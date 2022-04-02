@@ -11,7 +11,7 @@ namespace modul6_kelompok_7
 {
     internal class DataMahasiswa_1302204026
     {
-        string jsonFilePath = @"C:\Users\ASUS -TUF GAMING\source\repos\modul6_kelompok_7";
+        string jsonFilePath = @"D:\app\modul6_kelompok_7.json";
         public void ReadJSON()
         {
             string jsonFile = File.ReadAllText(jsonFilePath);
