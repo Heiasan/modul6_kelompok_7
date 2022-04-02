@@ -18,6 +18,17 @@ namespace modul6_kelompok_7
             Console.WriteLine();
             GlossaryItem11302204094 pop = new GlossaryItem11302204094();
             pop.ReadJSON();
+
+            {
+                DataMahasiswa_1302204026 d = new DataMahasiswa_1302204026();
+                d.ReadJSON();
+                Console.WriteLine();
+                TeamMembers_1302204026 s = new TeamMembers_1302204026();
+                s.ReadJSON();
+                Console.WriteLine();
+                GlosarryItem g = new GlosarryItem();
+                g.ReadJSON();
+            }
         }
     }
 }

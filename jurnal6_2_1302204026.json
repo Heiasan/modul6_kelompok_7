@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "gerry",
+       "lastName": "matthew",
+       "gender": "male",
+       "age": 20,
+       "nim": "13022040216"
+    },
+    {
+       "firstName": "Rodo",
+       "lastName": "idola",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302204075"
+    },
+    {
+       "firstName": "naufel",
+       "lastName": "abiyyu",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204094"
+    },
+	{
+	"firstName": "adha",
+       "lastName": "surya",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204026"
+	},
+	{
+	"firstName": "abdillah",
+       "lastName": "hasan",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302200020"
+	}
+  ]
+}
