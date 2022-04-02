@@ -15,6 +15,9 @@ namespace modul6_kelompok_7
             Console.WriteLine();
             TeamMembers1302204075 s = new TeamMembers1302204075();
             s.ReadJSON();
+            Console.WriteLine();
+            GlossaryItem1302204075 g = new GlossaryItem1302204075();
+            g.ReadJSON();
         }
     }
 }

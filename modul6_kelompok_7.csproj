@@ -77,8 +77,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataMahasiswa1302204075.cs" />
+    <Compile Include="GlossaryItem1302204075.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamMembers1302204075.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
